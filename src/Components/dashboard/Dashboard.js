@@ -7,7 +7,7 @@ function Dashboard() {
             <div className="category">
                 <div className="top">
                     <div className="money"></div>
-                    <div className="percantage"></div>
+                    <div className="percantag"></div>
                 </div>
                 <div className="name"></div>
                 <div className="color"></div>
